@@ -8,3 +8,4 @@ d> View Model.
 This Apllication includes OWIN Token-based authentication.
 In the shared services file(Angular part), I have manged the token and bearer where all the api services has been called.
 I have used Microsoft SQL Server database.
+**NOTE:-** Kindly install the required packages of backend and also install node packages before you run this application.
